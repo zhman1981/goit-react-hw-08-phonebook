@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/css/main.1820f4ac.css",
+    "main.js": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/js/main.3c8d56f0.js",
+    "static/media/default-avatar.png": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/media/default-avatar.e44fc4e22a4ce55fbe43.png",
+    "index.html": "/zhman1981.github.io/goit-react-hw-08-phonebook/index.html",
+    "main.1820f4ac.css.map": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/css/main.1820f4ac.css.map",
+    "main.3c8d56f0.js.map": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/js/main.3c8d56f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.1820f4ac.css",
+    "static/js/main.3c8d56f0.js"
   ]
 }
