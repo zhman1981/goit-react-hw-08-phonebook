@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/css/main.1820f4ac.css",
-    "main.js": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/js/main.3c8d56f0.js",
+    "main.js": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/js/main.b43bfe90.js",
     "static/media/default-avatar.png": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/media/default-avatar.e44fc4e22a4ce55fbe43.png",
     "index.html": "/zhman1981.github.io/goit-react-hw-08-phonebook/index.html",
     "main.1820f4ac.css.map": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/css/main.1820f4ac.css.map",
-    "main.3c8d56f0.js.map": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/js/main.3c8d56f0.js.map"
+    "main.b43bfe90.js.map": "/zhman1981.github.io/goit-react-hw-08-phonebook/static/js/main.b43bfe90.js.map"
   },
   "entrypoints": [
     "static/css/main.1820f4ac.css",
-    "static/js/main.3c8d56f0.js"
+    "static/js/main.b43bfe90.js"
   ]
 }
